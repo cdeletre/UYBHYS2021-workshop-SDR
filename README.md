@@ -1,6 +1,6 @@
 # UYBHYS 2021: SDR workshop quick recap and bonus
 
-![workshop_uybhys_cyril_celetre](https://github.com/cdeletre/UYBHYS2021-workshop-SDR/raw/master/media/pics/workshop_uybhys_cyril_deletre.jpg)
+![workshop\_uybhys\_cyril\_deletre](https://github.com/cdeletre/UYBHYS2021-workshop-SDR/raw/master/media/pics/workshop_uybhys_cyril_deletre.jpg)
 
 ## Slides
 
@@ -8,7 +8,7 @@ You can get the slides here: [UYBHYS2021-workshop-SDR.pdf](https://github.com/cd
 
 ## Hardware
 
-During the workshop we've used an RTL-SDR dongle to record the RF. You can get one from [www.passion-radio.fr](https://www.passion-radio.fr/recepteurs-sdr/rtl-sdr-r820t2-248.html) for few bucks.
+During the workshop we've used an RTL-SDR dongle to record the RF. You can get one from [www.passion-radio.fr](https://www.passion-radio.com/sdr-receivers/dvb-t-usb-receiver-249.html) for few bucks.
 
 ## In practice
 
